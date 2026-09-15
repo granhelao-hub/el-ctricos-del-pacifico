@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(218, 205, 187);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    accent-color: 78848F;
+}
+h1 {
+    color:rgb(7, 60, 60);
+    font-size: 2.5rem;
+}
+header {
+    padding: 1.5rem 2rem;
+    border-bottom: 1px rgb(223, 101, 14);
+}
+nav a {
+    color:blue;
+}
+main {
+    padding: 3rem 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.servicio-titulo {
+    font-size: 1.1;
+    letter-spacing: 0.0sem;
+    text-transform: uppercase;
+    margin-bottom: 0.25rem;
+    color:rgb(21, 161, 114);
+}
+.precio {
+    font-weight: bold;
+    color:blue
+}
+
+#contador-servicio {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color:rgb(51, 51, 209);
+}
+
+#boton-reservar {
+    display: block;
+    margin-top: 1rem;
+    padding: 0.5rem 1.25rem;
+    background-color: aqua;
+    color: azure;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    cursor: pointer;
+}
